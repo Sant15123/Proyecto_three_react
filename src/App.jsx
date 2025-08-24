@@ -2,13 +2,13 @@ import React, { useState } from 'react';
 import './App.css';
 
 import Layout from './Componentes/Layout.jsx';
-import Inicio from './Componentes/Inicio.jsx';
-import Estados from './Componentes/Estados.jsx';
-import CicloDeVida from './Componentes/CicloDeVida.jsx';
-import Hooks from './Componentes/Hooks.jsx';
-import VirtualDOM from './Componentes/VirtualDOM.jsx';
-import Props from './Componentes/Props.jsx';
-import Redux from './Componentes/Redux.jsx';
+import Inicio from './Pages/Inicio.jsx';
+import Estados from './Pages/Estados.jsx';
+import CicloDeVida from './Pages/CicloDeVida.jsx';
+import Hooks from './Pages/Hooks.jsx';
+import VirtualDOM from './Pages/VirtualDOM.jsx';
+import Props from './Pages/Props.jsx';
+import Redux from './Pages/Redux.jsx';
 
 
 const tabs = [
